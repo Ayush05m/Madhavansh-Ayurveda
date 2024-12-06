@@ -129,7 +129,7 @@ export default function AppNavbar() {
         <div className="flex items-center gap-2">
           <Link to="/" className="flex items-center gap-2">
             <img src="/Madhav-Ayurveda-Logo.png" alt="Logo" className="h-8 w-8 md:h-12 md:w-12" />
-            <span className="text-xl md:text-2xl font-bold">Madhav Ayurved</span>
+            <span className="text-xl md:text-2xl font-bold">Madhavash Ayurved</span>
           </Link>
         </div>
 
@@ -318,7 +318,7 @@ export default function AppNavbar() {
                         to="/about"
                       >
                         <div className="mb-2 mt-4 text-lg font-medium">
-                          Madhav Ayurved
+                          Madhavash Ayurved
                         </div>
                         <p className="text-sm leading-tight text-muted-foreground">
                           Traditional Ayurvedic healing with modern healthcare standards.
